@@ -10,6 +10,8 @@ public class Taller5 {
         
         String continuar="S";
         
+        JOptionPane.showMessageDialog(null,"PROYECTO EN GIBHUB");
+        
         while(continuar.equals("S")){
             
         String eps=JOptionPane.showInputDialog("Seleccione letra de eps"+
